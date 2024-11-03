@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library>
+    <books>
+        <book id="1">
+            <author>J.K.Rowling</author>
+            <title>HarryPotter</title>
+            <genre>Fantasy</genre>
+            <description>Series.</description>
+            <year>1997</year>
+            <keywords>Magic</keywords>
+            <rating>4.9</rating>
+
+        </book>
+        <book id="2">
+            <author>GeorgeOrwell</author>
+            <title>1984</title>
+            <genre>Dystopian</genre>
+            <description>Surveillance.</description>
+            <year>1949</year>
+            <keywords>Freedom</keywords>
+            <rating>4.8</rating>
+        </book>
+        <book id="3">
+            <author>J.R.R.Tolkien</author>
+            <title>TheHobbit</title>
+            <genre>Fantasy</genre>
+            <description>Trilogy.</description>
+            <year>1937</year>
+            <keywords>Fantasy</keywords>
+            <rating>4.7</rating>
+        </book>
+        <book id="4">
+            <author>F.ScottFitzgerald</author>
+            <title>TheGreatGatsby</title>
+            <genre>Classic</genre>
+            <description>AmericanDream.</description>
+            <year>1925</year>
+            <keywords>Tragedy</keywords>
+            <rating>4.6</rating>
+        </book>
+        <book id="5">
+            <author>HarperLee</author>
+            <title>ToKillAMockingbird</title>
+            <genre>Classic</genre>
+            <description>RacialInjustice.</description>
+            <year>1960</year>
+            <keywords>Courage</keywords>
+            <rating>4.9</rating>
+        </book>
+        <book id="6">
+            <author>JaneAusten</author>
+            <title>PrideAndPrejudice</title>
+            <genre>Romance</genre>
+            <description>LoveStory.</description>
+            <year>1813</year>
+            <keywords>Satire</keywords>
+            <rating>4.8</rating>
+        </book>
+        <book id="7">
+            <author>MarkTwain</author>
+            <title>TheAdventuresOfHuckleberryFinn</title>
+            <genre>Adventure</genre>
+            <description>MississippiRiver.</description>
+            <year>1884</year>
+            <keywords>Freedom</keywords>
+            <rating>4.7</rating>
+        </book>
+        <book id="8">
+            <author>MaryShelley</author>
+            <title>Frankenstein</title>
+            <genre>Horror</genre>
+            <description>GothicFiction.</description>
+            <year>1818</year>
+            <keywords>Science</keywords>
+            <rating>4.5</rating>
+        </book>
+        <book id="9">
+            <author>LeoTolstoy</author>
+            <title>WarAndPeace</title>
+            <genre>Historical</genre>
+            <description>NapoleonicWars.</description>
+            <year>1869</year>
+            <keywords>Russia</keywords>
+            <rating>4.6</rating>
+        </book>
+        <book id="10">
+            <author>HermanMelville</author>
+            <title>MobyDick</title>
+            <genre>Adventure</genre>
+            <description>Whaling.</description>
+            <year>1851</year>
+            <keywords>Obsession</keywords>
+            <rating>4.4</rating>
+        </book>
+    </books>
+</library>
